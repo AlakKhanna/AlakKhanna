@@ -6,6 +6,7 @@
 - I also have some basic knwoledge of python
 - I have also worked on CRO (Conversion Rate Optimization by using A/B Test tools like Google Optimize, Convert & VWO.
 - Also have good knowledge of GA4 & GTM
+- I ahve also worked on improvinf FCL, LCP & CLS for web application
 
 <!---
 AlakKhanna/AlakKhanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
