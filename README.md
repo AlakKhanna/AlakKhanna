@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Java & API
 
 - I have a good knowledge of Jira, Github, Agile Methodology, Testing Techniques, Testing Methodology
-- I have also worked on CRO by using A/b Test tools like Google Optimiz, COnvert & vwo.
+- I have also worked on CRO (Conversion Rate Optimization by using A/B Test tools like Google Optimize, Convert & VWO.
 - Also have good knowledge of GA4 & GTM
 
 <!---
