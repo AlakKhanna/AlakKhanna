@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlakKhanna
 - 👀 I’m interested in ... Automation
-- 🌱 I’m currently learning ... Java & API
+
 
 - I have a good knowledge of Jira, Github, Agile Methodology, Testing Techniques, Testing Methodology
 - I also have some basic knowledge of python
